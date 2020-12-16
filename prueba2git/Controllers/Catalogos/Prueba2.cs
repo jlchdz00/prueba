@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace prueba2git.Controllers.Catalogos
 {
-    public class Catalogos
+    public class Prueba2
     {
-        public int valor { get; set; }
-        public string nombre;
     }
 }
+
